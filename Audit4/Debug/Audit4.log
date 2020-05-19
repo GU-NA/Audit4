@@ -1,0 +1,4 @@
+﻿  Audit4.c
+C:\Users\Никита\source\repos\Audit4\Audit4\Audit4.c(22,30): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Никита\source\repos\Audit4\Audit4\Audit4.c(24,1): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+  Audit4.vcxproj -> C:\Users\Никита\source\repos\Audit4\Debug\Audit4.exe
